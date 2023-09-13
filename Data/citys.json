@@ -1,0 +1,28 @@
+[
+    {
+        "CityId": "2267056",
+        "Name": "Lisboa",
+        "Sunrise": "1694412841",
+        "Sunset":"1694458377"
+    },{
+        "CityId": "2267094",
+        "Name": "Leiria",
+        "Sunrise": "1694412841",
+        "Sunset":"1694458377"
+    },{
+        "CityId": "2740636",
+        "Name": "Coimbra",
+        "Sunrise": "1694412841",
+        "Sunset":"1694458377"
+    },{
+        "CityId": "2735941",
+        "Name": "Porto",
+        "Sunrise": "1694412841",
+        "Sunset":"1694458377"
+    },{
+        "CityId": "2268337",
+        "Name": "Faro",
+        "Sunrise": "1694412841",
+        "Sunset":"1694458377"
+    }
+]
